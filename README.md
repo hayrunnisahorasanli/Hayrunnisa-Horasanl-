@@ -1,11 +1,11 @@
 
 <h3 align="center">Mobile Developer</h3>
 
-<h1 align="center">merhaba  👋, Ben Hayrunnisa Horasanlı</h1> 
+<h1 align="center">Merhaba  👋, Ben Hayrunnisa Horasanlı</h1> 
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ds</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hayrunnisa horasanlı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hayrunnisa horasanlı" height="30" width="40" /></a>
 w.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
