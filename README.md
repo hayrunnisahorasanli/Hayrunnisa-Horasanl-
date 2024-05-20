@@ -1,7 +1,7 @@
 
 <h3 align="center">Mobile Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Hayrunnisa Horasanlı</h1> 
+<h1 align="center">merhaba  👋, Ben Hayrunnisa Horasanlı</h1> 
 
 
 
